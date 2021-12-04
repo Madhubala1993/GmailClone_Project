@@ -1,0 +1,16 @@
+.container {
+  /* text-align: center; */
+  width: auto;
+  height: auto;
+  margin-top: 75px;
+  border: 0px solid rgb(85, 83, 83);
+  padding: 10px;
+  box-shadow: 5px 10px 18px #888888;
+}
+#authorize-button {
+  margin-top: 100px;
+}
+
+.heading {
+  color: blueviolet;
+}
